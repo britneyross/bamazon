@@ -1,4 +1,5 @@
 # Bamazon
+ Amazon-like storefront using MySQL database
 
 ## Function
 To use, run node bamazonCustomer.js from the app's root directory. 
